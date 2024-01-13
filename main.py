@@ -2,7 +2,7 @@ import telebot
 import requests
 import json
 
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot('YourBotToken From Bot_Father')
 API = "ae12b3fe0b3973472139cbb2a14c8042"
 
 
