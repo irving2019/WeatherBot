@@ -79,9 +79,9 @@ target/
 .ipynb_checkpoints
 
 # IPython
+config.py
 profile_default/
 ipython_config.py
-config.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
